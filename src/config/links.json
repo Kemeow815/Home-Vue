@@ -2,25 +2,31 @@
   {
     "type": "Email",
     "icon": "fas fa-envelope",
-    "url": "mailto:i@ruom.top",
+    "url": "mailto:kemiaofx@163.com",
     "hoverColor": "#e78b0a"
   },
   {
     "type": "Github",
     "icon": "fab fa-github",
-    "url": "https://github.com/JLinmr",
+    "url": "https://github.com/Kemeow815",
     "hoverColor": "#6500fc"
+  },
+  {
+    "type": "Telegram",
+    "icon": "fab fa-telegram",
+    "url": "https://t.me/KemiaoJun",
+    "hoverColor": "#fdd301"
   },
   {
     "type": "支付宝",
     "icon": "fab fa-alipay",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/zfbzf.avif",
+    "qrCode": "https://s2.loli.net/2025/04/13/HYrnNFOKDZPSv4p.jpg",
     "hoverColor": "#007aff"
   },
   {
     "type": "微信",
     "icon": "fab fa-weixin",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/wxzf.avif",
+    "qrCode": "https://s2.loli.net/2025/04/13/HQ4lbFfJkpU2R9V.jpg",
     "hoverColor": "#247700"
   }
 ]

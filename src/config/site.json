@@ -1,18 +1,18 @@
 [
   {
     "name": "博客",
-    "url": "https://blog.bsgun.cn",
+    "url": "https://blog-v3.kemeow.top",
     "icon": "fa fa-blog"
   },
   {
-    "name": "雨云",
-    "url": "https://www.rainyun.com/Lin_",
-    "icon": "fa fa-cloud "
+    "name": "音乐",
+    "url": "https://music.kemiao.online",
+    "icon": "fa fa-music "
   },
   {
-    "name": "图床",
+    "name": "今日热榜",
     "url": "https://dev.ruom.top",
-    "icon": "fa fa-image"
+    "icon": "fas fa-newspaper"
   },
   {
     "name": "封面",
@@ -21,12 +21,17 @@
   },
   {
     "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "url": "https://montor.kemeow.cn/",
     "icon": "fa fa-chart-line"
   },
   {
     "name": "图标",
     "url": "https://icon.ruom.top/",
     "icon": "fa fa-icons"
+  },
+  {
+    "name": "工影视",
+    "url": "https://tv.kemeow.top/",
+    "icon": "fas fa-file-video"
   }
 ]
